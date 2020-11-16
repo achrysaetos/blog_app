@@ -12,6 +12,10 @@ Updated files:
 
 * app/views/articles/
 
+* app/views/comments/
+
 * app/views/layouts/application.html.erb
 
 * app/assets/stylesheets/screen.css
+
+* app/models/comment.rb
