@@ -2,7 +2,7 @@
 
 Updated files:
 
-* db/migrate/20201115035404_create_articles.rb
+* db/migrate/
 
 * config/routes.rb
 
