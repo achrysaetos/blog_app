@@ -1,21 +1,12 @@
 # README
 
+run "rails server" and go to localhost:3000
+
 Updated files:
-
-* db/migrate/
-
+* app/assets/stylesheets/
+* app/controllers/
+* app/helpers/
+* app/models/
+* app/views/
 * config/routes.rb
-
-* app/controllers/articles_controller.rb
-
-* app/helpers/articles_helper.rb
-
-* app/views/articles/
-
-* app/views/comments/
-
-* app/views/layouts/application.html.erb
-
-* app/assets/stylesheets/screen.css
-
-* app/models/comment.rb
+* db/migrate/
