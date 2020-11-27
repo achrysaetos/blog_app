@@ -1,12 +1,5 @@
-# README
+# Blog App
 
-run "rails server" and go to localhost:3000
+A simple blog app built using Ruby on Rails.
 
-Updated files:
-* app/assets/stylesheets/
-* app/controllers/
-* app/helpers/
-* app/models/
-* app/views/
-* config/routes.rb
-* db/migrate/
+Supports creating/editing/deleting articles and adding comments/tags.
